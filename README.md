@@ -9,7 +9,7 @@ Works with Claude Code, Cursor, Codex, Copilot, and any other agent that loads [
 ## Install
 
 ```bash
-npx skills add griffinsisk/griff-skill-library
+npx skills add griffinsisk/harada-skill
 ```
 
 The [skills CLI](https://github.com/vercel-labs/skills) detects the agents on your machine and installs `harada-coach` into the right skills folder. Add `-g` to install for your user account (every project) instead of the current repo.
