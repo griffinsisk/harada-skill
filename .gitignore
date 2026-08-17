@@ -1,0 +1,5 @@
+# Agent install targets — the published skill lives in skills/
+.claude/
+.cursor/
+.codex/
+.agents/

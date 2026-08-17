@@ -79,7 +79,7 @@ To double the user's follow-through rates, apply the science of **Implementation
 
 Once the chart and routine are fully engineered, generate the toolkit files into `~/Desktop/Harada/` using the bundled script. The script uses only the Python standard library — no packages, no installs, no network — so it runs on any machine with `python3`.
 
-1. **Compile `toolkit.json`:** Read `harada-state.md` and write `~/Desktop/Harada/toolkit.json` matching the schema in `scripts/toolkit-example.json` (goal, deadline, why, 8 pillars each with 8 actions, when-where intentions, if-then scripts).
+1. **Compile `toolkit.json`:** Read `harada-state.md` and write `~/Desktop/Harada/toolkit.json` matching the schema in `templates/toolkit-example.json` (goal, deadline, why, 8 pillars each with 8 actions, when-where intentions, if-then scripts).
 2. **Run the generator:**
 
    ```bash

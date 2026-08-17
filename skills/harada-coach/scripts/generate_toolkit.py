@@ -11,7 +11,7 @@ Outputs three files next to the input JSON:
     daily-routine-checklist.html  (open in a browser; print to PDF if wanted)
     weekly-performance-diary.md
 
-See toolkit-example.json in this directory for the expected schema.
+See ../templates/toolkit-example.json for the expected schema.
 """
 
 import html

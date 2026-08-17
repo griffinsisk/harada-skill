@@ -53,7 +53,7 @@ A fictional Product Hunt launch example is in [`sample-output/`](sample-output/)
 If `toolkit.json` already exists:
 
 ```bash
-python3 .claude/skills/harada-coach/scripts/generate_toolkit.py ~/Desktop/Harada/toolkit.json
+python3 skills/harada-coach/scripts/generate_toolkit.py ~/Desktop/Harada/toolkit.json
 ```
 
-Schema: [`scripts/toolkit-example.json`](.claude/skills/harada-coach/scripts/toolkit-example.json). Outputs land next to the input JSON.
+Schema: [`templates/toolkit-example.json`](skills/harada-coach/templates/toolkit-example.json). Outputs land next to the input JSON.
