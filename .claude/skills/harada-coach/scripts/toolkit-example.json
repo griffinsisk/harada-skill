@@ -1,0 +1,124 @@
+{
+  "goal": "Launch platform v1.0 on Product Hunt by October 1st",
+  "deadline": "October 1st",
+  "why": "Prove I can ship a real product end-to-end and build income independent of my day job.",
+  "pillars": [
+    {
+      "name": "Technical Execution",
+      "actions": [
+        { "text": "Ship one scoped commit to main before 9 AM", "frequency": "daily" },
+        { "text": "Write one test for yesterday's code first thing", "frequency": "daily" },
+        { "text": "Close one open bug from the tracker", "frequency": "daily" },
+        { "text": "Timebox refactors to 90 minutes with a timer", "frequency": "daily" },
+        { "text": "Review the sprint board and cut scope if behind", "frequency": "weekly", "day": "Monday" },
+        { "text": "Deploy to staging and click through the core flow", "frequency": "daily" },
+        { "text": "Read one page of the framework docs at lunch", "frequency": "daily" },
+        { "text": "Run the full test suite before signing off", "frequency": "daily" }
+      ]
+    },
+    {
+      "name": "Marketing & Audience",
+      "actions": [
+        { "text": "Post one build-in-public update on X at 5 PM", "frequency": "daily" },
+        { "text": "Reply to 3 comments in the indie hackers forum", "frequency": "daily" },
+        { "text": "DM one potential beta user with a personal note", "frequency": "daily" },
+        { "text": "Draft one newsletter issue", "frequency": "weekly", "day": "Thursday" },
+        { "text": "Add one item to the launch-day asset checklist", "frequency": "daily" },
+        { "text": "Screenshot one new feature for the launch gallery", "frequency": "daily" },
+        { "text": "Log one competitor observation in the notes doc", "frequency": "daily" },
+        { "text": "Review analytics and write 3 takeaways", "frequency": "weekly", "day": "Friday" }
+      ]
+    },
+    {
+      "name": "Customer Discovery",
+      "actions": [
+        { "text": "Send 2 customized outreach emails to target users", "frequency": "daily" },
+        { "text": "Log every piece of user feedback in the tracker", "frequency": "daily" },
+        { "text": "Ask one open-ended question in a user community", "frequency": "daily" },
+        { "text": "Run one 20-minute user interview", "frequency": "weekly", "day": "Wednesday" },
+        { "text": "Tag yesterday's feedback by theme", "frequency": "daily" },
+        { "text": "Update the top-3 pain points list", "frequency": "weekly", "day": "Friday" },
+        { "text": "Watch one session replay and note friction", "frequency": "daily" },
+        { "text": "Thank one user personally for their feedback", "frequency": "daily" }
+      ]
+    },
+    {
+      "name": "Physical Stamina",
+      "actions": [
+        { "text": "Walk 20 minutes outside before opening the laptop", "frequency": "daily" },
+        { "text": "Do a 15-minute strength circuit at 12:30 PM", "frequency": "daily" },
+        { "text": "Stop screens at 10 PM, lights out by 11", "frequency": "daily" },
+        { "text": "Drink water before each coffee", "frequency": "daily" },
+        { "text": "Prep 3 healthy lunches for the week", "frequency": "weekly", "day": "Sunday" },
+        { "text": "Stand and stretch at every pomodoro break", "frequency": "daily" },
+        { "text": "Log sleep hours in the tracker each morning", "frequency": "daily" },
+        { "text": "One longer run or hike", "frequency": "weekly", "day": "Saturday" }
+      ]
+    },
+    {
+      "name": "Focus & Deep Work",
+      "actions": [
+        { "text": "Block 8-11 AM as maker time on the calendar", "frequency": "daily" },
+        { "text": "Phone in the drawer during maker time", "frequency": "daily" },
+        { "text": "Write tomorrow's top task on a sticky note at shutdown", "frequency": "daily" },
+        { "text": "Batch email and Slack to 11 AM and 4 PM only", "frequency": "daily" },
+        { "text": "Log distractions in the interrupt list instead of acting", "frequency": "daily" },
+        { "text": "Review the interrupt list and prune commitments", "frequency": "weekly", "day": "Friday" },
+        { "text": "Start each work block with a 2-minute intention note", "frequency": "daily" },
+        { "text": "End the day with a 5-minute shutdown ritual", "frequency": "daily" }
+      ]
+    },
+    {
+      "name": "Financial Runway",
+      "actions": [
+        { "text": "Log every business expense the day it occurs", "frequency": "daily" },
+        { "text": "Review burn rate against the runway sheet", "frequency": "weekly", "day": "Monday" },
+        { "text": "Skip one discretionary purchase and note the amount", "frequency": "daily" },
+        { "text": "Check subscription list and cancel one unused tool", "frequency": "weekly", "day": "Wednesday" },
+        { "text": "Move 10% of any freelance income to the launch fund", "frequency": "daily" },
+        { "text": "Update the pricing-model doc with one new data point", "frequency": "daily" },
+        { "text": "Read one article on SaaS pricing at breakfast", "frequency": "daily" },
+        { "text": "Reconcile accounts", "frequency": "weekly", "day": "Sunday" }
+      ]
+    },
+    {
+      "name": "Mindset & Spirit",
+      "actions": [
+        { "text": "Write 3 lines in the journal about why this matters", "frequency": "daily" },
+        { "text": "Read the goal statement aloud after waking", "frequency": "daily" },
+        { "text": "Note one win, however small, before dinner", "frequency": "daily" },
+        { "text": "Meditate 10 minutes after the morning walk", "frequency": "daily" },
+        { "text": "Call one supportive friend or mentor", "frequency": "weekly", "day": "Saturday" },
+        { "text": "Reframe one negative thought in writing", "frequency": "daily" },
+        { "text": "Visualize launch day for 2 minutes before maker time", "frequency": "daily" },
+        { "text": "Review the failure-pattern list and pick one guard", "frequency": "weekly", "day": "Monday" }
+      ]
+    },
+    {
+      "name": "Support System",
+      "actions": [
+        { "text": "Post progress in the accountability group at 6 PM", "frequency": "daily" },
+        { "text": "Ask one specific question of a more experienced builder", "frequency": "daily" },
+        { "text": "Help one person in the community with their problem", "frequency": "daily" },
+        { "text": "Co-working session with accountability partner", "frequency": "weekly", "day": "Tuesday" },
+        { "text": "Tell my partner tonight's plan at breakfast", "frequency": "daily" },
+        { "text": "Thank one person who helped me this week", "frequency": "weekly", "day": "Friday" },
+        { "text": "Log one piece of advice received and how I used it", "frequency": "daily" },
+        { "text": "Share one struggle honestly in the group", "frequency": "weekly", "day": "Thursday" }
+      ]
+    }
+  ],
+  "when_where": [
+    { "action": "ship one scoped commit to main", "time": "8:00 AM", "location": "my home office desk" },
+    { "action": "walk 20 minutes", "time": "6:45 AM", "location": "the park loop by my house" },
+    { "action": "post one build-in-public update", "time": "5:00 PM", "location": "my desk, right after shutdown ritual" },
+    { "action": "send 2 customized outreach emails", "time": "11:00 AM", "location": "the kitchen table during email batch" },
+    { "action": "write 3 journal lines about why this matters", "time": "9:30 PM", "location": "the armchair in the bedroom" },
+    { "action": "write tomorrow's top task on a sticky note", "time": "5:30 PM", "location": "my monitor before closing the laptop" }
+  ],
+  "if_then": [
+    { "obstacle": "I get stuck refactoring code for over 90 minutes", "response": "close my IDE and write my daily marketing post immediately" },
+    { "obstacle": "I skip the morning walk two days in a row", "response": "put my running shoes next to the bed tonight and walk before checking any screen tomorrow" },
+    { "obstacle": "a user gives harsh feedback and I feel like quitting", "response": "log the feedback verbatim in the tracker, close the tab, and reread my Why statement before responding" }
+  ]
+}

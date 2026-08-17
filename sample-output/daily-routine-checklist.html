@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Daily Routine Checklist</title>
+<style>
+
+  :root {
+    --navy: #1f4e79; --blue: #9dc3e6; --pale: #f2f7fc; --line: #8faadc;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    color: #1a1a1a; margin: 2rem auto; max-width: 1100px; padding: 0 1rem;
+  }
+  h1 { color: var(--navy); margin-bottom: 0.25rem; }
+  .subtitle { color: #555; margin-top: 0; }
+  @media print { body { margin: 0.5rem; } .noprint { display: none; } }
+
+  body { max-width: 760px; }
+  h2 { color: var(--navy); border-bottom: 2px solid var(--blue); padding-bottom: 4px; margin-top: 1.8rem; }
+  h3 { margin: 0.9rem 0 0.3rem; }
+  ul.checks { list-style: none; padding-left: 0; margin: 0.4rem 0; }
+  ul.checks li { margin: 0.45rem 0; display: flex; align-items: flex-start; gap: 0.55rem; }
+  .box {
+    display: inline-block; width: 14px; height: 14px; flex: 0 0 14px;
+    border: 1.5px solid var(--navy); border-radius: 2px; margin-top: 2px;
+  }
+  ol.scripts li { margin: 0.6rem 0; }
+</style>
+</head>
+<body>
+<h1>Daily Routine Checklist</h1>
+<p class="subtitle">Goal: Launch platform v1.0 on Product Hunt by October 1st &mdash; deadline: October 1st</p>
+<p class="noprint subtitle">Tip: print this page (Cmd+P) and choose "Save as PDF" for a daily paper copy.</p>
+
+<h2>Anchor Habits (When-Where Implementation Intentions)</h2>
+<ul class="checks"><li><span class="box"></span>I will ship one scoped commit to main at 8:00 AM in my home office desk</li><li><span class="box"></span>I will walk 20 minutes at 6:45 AM in the park loop by my house</li><li><span class="box"></span>I will post one build-in-public update at 5:00 PM in my desk, right after shutdown ritual</li><li><span class="box"></span>I will send 2 customized outreach emails at 11:00 AM in the kitchen table during email batch</li><li><span class="box"></span>I will write 3 journal lines about why this matters at 9:30 PM in the armchair in the bedroom</li><li><span class="box"></span>I will write tomorrow&#x27;s top task on a sticky note at 5:30 PM in my monitor before closing the laptop</li></ul>
+<h2>Weekly Actions (by day)</h2><h3>Monday</h3><ul class="checks"><li><span class="box"></span>Review the sprint board and cut scope if behind</li><li><span class="box"></span>Review burn rate against the runway sheet</li><li><span class="box"></span>Review the failure-pattern list and pick one guard</li></ul><h3>Tuesday</h3><ul class="checks"><li><span class="box"></span>Co-working session with accountability partner</li></ul><h3>Wednesday</h3><ul class="checks"><li><span class="box"></span>Run one 20-minute user interview</li><li><span class="box"></span>Check subscription list and cancel one unused tool</li></ul><h3>Thursday</h3><ul class="checks"><li><span class="box"></span>Draft one newsletter issue</li><li><span class="box"></span>Share one struggle honestly in the group</li></ul><h3>Friday</h3><ul class="checks"><li><span class="box"></span>Review analytics and write 3 takeaways</li><li><span class="box"></span>Update the top-3 pain points list</li><li><span class="box"></span>Review the interrupt list and prune commitments</li><li><span class="box"></span>Thank one person who helped me this week</li></ul><h3>Saturday</h3><ul class="checks"><li><span class="box"></span>One longer run or hike</li><li><span class="box"></span>Call one supportive friend or mentor</li></ul><h3>Sunday</h3><ul class="checks"><li><span class="box"></span>Prep 3 healthy lunches for the week</li><li><span class="box"></span>Reconcile accounts</li></ul>
+<h2>If-Then Emergency Scripts</h2>
+<ol class="scripts">
+<li><strong>If</strong> I get stuck refactoring code for over 90 minutes, <strong>then</strong> I will close my IDE and write my daily marketing post immediately.</li><li><strong>If</strong> I skip the morning walk two days in a row, <strong>then</strong> I will put my running shoes next to the bed tonight and walk before checking any screen tomorrow.</li><li><strong>If</strong> a user gives harsh feedback and I feel like quitting, <strong>then</strong> I will log the feedback verbatim in the tracker, close the tab, and reread my Why statement before responding.</li>
+</ol>
+</body>
+</html>
